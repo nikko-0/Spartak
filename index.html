@@ -3,7 +3,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
 		<title>&#1057;&#1087;&#1072;&#1088;&#1090;&#1072;&#1082;</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, viewport-fit=cover" />
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
 		<meta property="og:title" content="&#1057;&#1087;&#1072;&#1088;&#1090;&#1072;&#1082;">
@@ -32,13 +32,14 @@
 			::-webkit-scrollbar-thumb {
 				background-color:  rgba(255,255,255,0.5);
 			}
+			@supports(padding:max(0px)) { env() }
 		</style>
 	</head>
 	<body>
 <!-- - - - - - - 8<- - - - - - cut here - - - - - 8<- - - - - - - -->
-		<script type="text/javascript" src="pano2vr_player.js?ts=35464940">
+		<script type="text/javascript" src="pano2vr_player.js?ts=36679015">
 		</script>
-		<script type="text/javascript" src="skin.js?ts=35464940">
+		<script type="text/javascript" src="skin.js?ts=36679015">
 		</script>
 		<script src="https://www.youtube.com/iframe_api"></script>
 		<script src="https://player.vimeo.com/api/player.js"></script>
@@ -92,12 +93,12 @@
 			pano=new pano2vrPlayer("container");
 			pano.startNode = startNode;
 			pano.startView = startView;
-			pano.setQueryParameter("ts=35464940")
+			pano.setQueryParameter("ts=36679015")
 			// add the skin object
 			skin=new pano2vrSkin(pano);
 			// load the configuration
 			window.addEventListener("load", function() {
-				pano.readConfigUrlAsync("pano.xml?ts=35464940");
+				pano.readConfigUrlAsync("pano.xml?ts=36679015");
 			});
 			if (window.navigator.userAgent.match(/Safari/i)) {
 				// fix for white borders, rotation on iPhone

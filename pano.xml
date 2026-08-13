@@ -10,16 +10,17 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:19:00" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node15" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="94.44" pan="173.46" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="4" tilt="-90"/>
-      <min fov="94.44" pan="-180" tilt="-27.8808"/>
-      <max fov="94.44" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="27.8808"/>
+      <min fov="80" pan="-180" tilt="-27.8808"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="27.8808"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="171.67" skinid="ht_node" target="20.9/0.0/89.8" tilt="-3.04" title="" url="{node9}" use3D="0"/>
       <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point02" pan="91.33" skinid="ht_node" target="-122.4/0.0/91.7" tilt="-6.56" title="" url="{node17}" use3D="0"/>
       <hotspot description="Встречайте детей в комфортной зоне. Здесь просторно и уютно, а беседки с навесом укроют вас от солнца." id="Point03" pan="91.39" skinid="ht_info" target="" tilt="3.06" title="Родительская зона" url=""/>
       <hotspot customimage="media/link270.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point04" pan="-177.87" skinid="ht_node" target="-32.2/0.0/90.7" tilt="-5.4" title="" url="{node24}" use3D="0"/>
+      <hotspot description="" id="Point05" pan="95.4" skinid="ht_node" target="" tilt="-14.55" title="" url="{node17}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -34,13 +35,13 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:18:32+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:18" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="4" tilt="-90"/>
-      <min fov="98.86" pan="-180" tilt="-29.7596"/>
-      <max fov="98.86" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.7596"/>
+      <min fov="80" pan="-180" tilt="-29.7596"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="29.7596"/>
     </view>
     <hotspots>
-      <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="53.29" skinid="ht_node" target="172.3/0.0/87.3" tilt="-3.35" title="" url="{node15}" use3D="0"/>
+      <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="54.85" skinid="ht_node" target="172.3/0.0/87.3" tilt="-3.14" title="" url="{node15}" use3D="0"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -55,10 +56,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:33:44+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:33" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node24" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="97.85" pan="-180" tilt="-29.3237"/>
-      <max fov="97.85" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.3237"/>
+      <min fov="80" pan="-180" tilt="-29.3237"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="29.3237"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link270.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="148.59" skinid="ht_node" target="20.9/0.0/89.8" tilt="-2.41" title="" url="{node9}" use3D="0"/>
@@ -78,10 +79,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:16:42+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:16" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="96.95" pan="-180" tilt="-28.9391"/>
-      <max fov="96.95" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.9391"/>
+      <min fov="80" pan="-180" tilt="-28.9391"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.9391"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="-155.99" skinid="ht_node" target="-3.5/0.0/87.3" tilt="-0.47" title="" url="{node15}" use3D="0"/>
@@ -104,10 +105,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:19:18+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:19" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node19" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="96.89" pan="-180" tilt="-28.9115"/>
-      <max fov="96.89" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.9115"/>
+      <min fov="80" pan="-180" tilt="-28.9115"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.9115"/>
     </view>
     <hotspots>
       <hotspot description="Уютная, три зала, всегда чисто, вкусная еда" id="Point02" pan="78.6" skinid="ht_info" target="" tilt="0.06" title="Столовая" url=""/>
@@ -127,10 +128,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:19:07+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:19" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="4" tilt="-90"/>
-      <min fov="5" pan="-180" tilt="-29.3237"/>
-      <max fov="140" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.3237"/>
+      <min fov="80" pan="-180" tilt="-29.3237"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="29.3237"/>
     </view>
     <hotspots>
       <hotspot description="Рейтинг чистоты и отрядов в течении смены" id="Point01" pan="-146.41" skinid="ht_info" target="" tilt="0.21" title="Информационный стенд" url=""/>
@@ -152,10 +153,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:17:57+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:17" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node10" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="96.56" pan="-180" tilt="-28.7734"/>
-      <max fov="96.56" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.7734"/>
+      <min fov="80" pan="-180" tilt="-28.7734"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.7734"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link45.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="170.38" skinid="ht_node" target="160.1/0.0/90.2" tilt="-1.67" title="" url="{node12}" use3D="0"/>
@@ -174,10 +175,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:18:07+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:18" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node12" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="97.34" pan="-180" tilt="-29.1043"/>
-      <max fov="97.34" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.1043"/>
+      <min fov="80" pan="-180" tilt="-29.1043"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="29.1043"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link315.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="-79.48" skinid="ht_node" target="-12.1/0.0/89.4" tilt="-1.93" title="" url="{node10}" use3D="0"/>
@@ -196,10 +197,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:18:24+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:18" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="96.11" pan="-180" tilt="-28.5794"/>
-      <max fov="96.11" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.5794"/>
+      <min fov="80" pan="-180" tilt="-28.5794"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.5794"/>
     </view>
     <hotspots>
       <hotspot description="Концерты. Кино. Караоке. Даже в дождь ребятам есть чем заняться!" id="Point01" pan="-125.5" skinid="ht_info" target="" tilt="7.45" title="Клуб" url=""/>
@@ -220,10 +221,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:16:01+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:16" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="97.72" pan="-180" tilt="-29.2689"/>
-      <max fov="97.72" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.2689"/>
+      <min fov="80" pan="-180" tilt="-29.2689"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="29.2689"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link315.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="168.86" skinid="ht_node" target="-18.6/-0.0/89.0" tilt="-3.87" title="" url="{node14}" use3D="0"/>
@@ -242,10 +243,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:19:34+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:19" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node20" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="96.76" pan="-180" tilt="-28.8563"/>
-      <max fov="96.76" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.8563"/>
+      <min fov="80" pan="-180" tilt="-28.8563"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.8563"/>
     </view>
     <hotspots>
       <hotspot description="4 кабинки, 2 раковины, зеркало" id="Point01" pan="-12.28" skinid="ht_info" target="" tilt="5.1" title="Уличный туалет" url=""/>
@@ -265,10 +266,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:16:17+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:16" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="96.11" pan="-180" tilt="-28.5794"/>
-      <max fov="96.11" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.5794"/>
+      <min fov="80" pan="-180" tilt="-28.5794"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.5794"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link45.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="-59.67" skinid="ht_node" target="-46.3/0.0/89.6" tilt="-2.47" title="" url="{node20}" use3D="0"/>
@@ -290,10 +291,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:17:18+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:17" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node16" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="96.5" pan="-180" tilt="-28.7457"/>
-      <max fov="96.5" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.7457"/>
+      <min fov="80" pan="-180" tilt="-28.7457"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.7457"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link315.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="-160.83" skinid="ht_node" target="-15.0/-0.0/89.0" tilt="-4.44" title="" url="{node7}" use3D="0"/>
@@ -313,10 +314,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:20:04+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:20" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node21" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="97.15" pan="-180" tilt="-29.0217"/>
-      <max fov="97.15" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.0217"/>
+      <min fov="80" pan="-180" tilt="-29.0217"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="29.0217"/>
     </view>
     <hotspots>
       <hotspot description="4 кабинки, 2 раковины, зеркало" id="Point01" pan="93.14" skinid="ht_info" target="" tilt="3.63" title="Уличный туалет" url=""/>
@@ -335,10 +336,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:20:57+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:20" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="98.04" pan="-180" tilt="-29.4057"/>
-      <max fov="98.04" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.4057"/>
+      <min fov="80" pan="-180" tilt="-29.4057"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="29.4057"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="85.25" skinid="ht_node" target="34.8/0.0/89.0" tilt="-0.74" title="" url="{node7}" use3D="0"/>
@@ -359,10 +360,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:21:06+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:21" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="97.79" pan="-180" tilt="-29.2963"/>
-      <max fov="97.79" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.2963"/>
+      <min fov="80" pan="-180" tilt="-29.2963"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="29.2963"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="-107.16" skinid="ht_node" target="85.0/-0.0/90.9" tilt="-0.62" title="" url="{node1}" use3D="0"/>
@@ -382,10 +383,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:21:13+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:21" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="96.82" pan="-180" tilt="-28.8839"/>
-      <max fov="96.82" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.8839"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="4" tilt="-90"/>
+      <min fov="80" pan="-180" tilt="-28.8839"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.8839"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="74.62" skinid="ht_node" target="-12.4/0.0/89.7" tilt="-1.57" title="" url="{node18}" use3D="0"/>
@@ -404,10 +405,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:18:40+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:18" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node18" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="96.82" pan="-180" tilt="-28.8839"/>
-      <max fov="96.82" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.8839"/>
+      <min fov="80" pan="-180" tilt="-28.8839"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.8839"/>
     </view>
     <hotspots>
       <hotspot description="Просторный круглый зал, спортивные маты, 2 стола для настольного тенниса, всегда можно позаниматься" id="Point01" pan="66.59" skinid="ht_info" target="" tilt="1.45" title="Спортклуб" url=""/>
@@ -427,10 +428,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:20:27+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:20" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node22" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="97.02" pan="-180" tilt="-28.9667"/>
-      <max fov="97.02" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.9667"/>
+      <min fov="80" pan="-180" tilt="-28.9667"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.9667"/>
     </view>
     <hotspots>
       <hotspot description="4 кабинки, 2 раковины, зеркало" id="Point01" pan="84.12" skinid="ht_info" target="" tilt="4.56" title="Уличный туалет" url=""/>
@@ -450,10 +451,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:17:45+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:17" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node11" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="98.04" pan="-180" tilt="-29.4057"/>
-      <max fov="98.04" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.4057"/>
+      <min fov="80" pan="-180" tilt="-29.4057"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="29.4057"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="168.2" skinid="ht_node" target="-100.7/0.0/89.9" tilt="-1.7" title="" url="{node22}" use3D="0"/>
@@ -474,10 +475,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:20:48+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:20" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node23" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="97.08" pan="-180" tilt="-28.9942"/>
-      <max fov="97.08" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.9942"/>
+      <min fov="80" pan="-180" tilt="-28.9942"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.9942"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="-115.32" skinid="ht_node" target="153.4/-0.0/90.9" tilt="0.37" title="" url="{node11}" use3D="0"/>
@@ -497,10 +498,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:18:17+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:18" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="96.95" pan="-180" tilt="-28.9391"/>
-      <max fov="96.95" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.9391"/>
+      <min fov="80" pan="-180" tilt="-28.9391"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.9391"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="132.64" skinid="ht_node" target="107.9/-0.0/90.9" tilt="-1.85" title="" url="{node11}" use3D="0"/>
@@ -520,10 +521,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:12:55+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:12" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node8" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="89.51" pan="-180" tilt="-28.4683"/>
-      <max fov="89.51" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="28.4683"/>
+      <min fov="80" pan="-180" tilt="-28.4683"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="28.4683"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link45.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="-150" skinid="ht_node" target="120.1/-0.0/90.9" tilt="-1" title="" url="{node11}" use3D="0"/>
@@ -544,10 +545,10 @@
     </input>
     <userdata author="" capturedatetime="2026-08-06T17:11:05+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:11" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="101.4" pan="175.19" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="90.83" pan="-180" tilt="-29.0217"/>
-      <max fov="90.83" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.0217"/>
+      <min fov="80" pan="-180" tilt="-29.0217"/>
+      <max fov="101.4" fovfisheye="101.4" fovstereographic="101.4" pan="180" scaletofit="1" tilt="29.0217"/>
     </view>
     <hotspots>
       <hotspot customimage="media/link.png" customimageheight="60" customimagewidth="60" description="" distance3D="342.902" fov="10" id="Point01" pan="-173.09" skinid="ht_node" target="107.3/-0.0/88.7" tilt="-1.25" title="" url="{node8}" use3D="0"/>
@@ -557,7 +558,7 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="nikko" comment="" copyright="" description="" tags="" title="Спартак" uuid="{44ee6879-f02c-40ac-832f-c4dc4545fda7}"/>
+    <userdata author="nikko" comment="" copyright="" description="" tags="" title="Спартак" uuid="{9b5c676a-0df1-4952-a51b-87d781d75f9f}"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="50" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="0" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="1" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="9" simulatemass="0" speedwheel="1" zoomcentercursor="0"/>
     <animationsequences>
