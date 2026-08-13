@@ -11,7 +11,7 @@
     <userdata author="" capturedatetime="2026-08-06T17:19:00" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node15" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="94.44" pan="173.46" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <flyin fov="170" pan="0" projection="4" tilt="-90"/>
       <min fov="94.44" pan="-180" tilt="-27.8808"/>
       <max fov="94.44" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="27.8808"/>
     </view>
@@ -35,7 +35,7 @@
     <userdata author="" capturedatetime="2026-08-06T17:18:32+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:18" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <flyin fov="170" pan="0" projection="4" tilt="-90"/>
       <min fov="98.86" pan="-180" tilt="-29.7596"/>
       <max fov="98.86" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.7596"/>
     </view>
@@ -128,9 +128,9 @@
     <userdata author="" capturedatetime="2026-08-06T17:19:07+04:00" comment="" copyright="" customnodeid="" datetime="06.08.2026 17:19" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="Spartak-1" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="97.85" pan="-180" tilt="-29.3237"/>
-      <max fov="97.85" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.3237"/>
+      <flyin fov="170" pan="0" projection="4" tilt="-90"/>
+      <min fov="5" pan="-180" tilt="-29.3237"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="180" scaletofit="1" tilt="29.3237"/>
     </view>
     <hotspots>
       <hotspot description="Рейтинг чистоты и отрядов в течении смены" id="Point01" pan="-146.41" skinid="ht_info" target="" tilt="0.21" title="Информационный стенд" url=""/>
@@ -558,8 +558,8 @@
   </panorama>
   <masternode>
     <userdata author="nikko" comment="" copyright="" description="" tags="" title="Спартак" uuid="{44ee6879-f02c-40ac-832f-c4dc4545fda7}"/>
-    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="0" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="50" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="0" zoomspeed="2"/>
-    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="1" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="50" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="0" zoomspeed="2"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="1" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="9" simulatemass="0" speedwheel="1" zoomcentercursor="0"/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
