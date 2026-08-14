@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.14" apprev="18105" start="node15">
+  <panorama id="node15">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-27.8808" pan="-180"/>
+      <max fovfisheye="360" tilt="27.8808" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:19" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node15" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="Point01" skinid="ht_node" tilt="-6.29" target="0.0/0.0/59.5" title="" url="{node17}" pan="90.85" description=""/>
+      <hotspot id="Point02" skinid="ht_info" tilt="2.43" target="" title="asa" url="" pan="-269.35" description="asasaa"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-29.7596" pan="-180"/>
+      <max fovfisheye="360" tilt="29.7596" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:18" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node17" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="Point01" skinid="ht_node" tilt="-3.4" target="223.1/0.0/100.0" title="" url="{node15}" pan="-306.58" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-29.3237" pan="-180"/>
+      <max fovfisheye="360" tilt="29.3237" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:33" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node24" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.9391" pan="-180"/>
+      <max fovfisheye="360" tilt="28.9391" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:16" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node9" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.9115" pan="-180"/>
+      <max fovfisheye="360" tilt="28.9115" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:19" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node19" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-29.3237" pan="-180"/>
+      <max fovfisheye="360" tilt="29.3237" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:19" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node13" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.7734" pan="-180"/>
+      <max fovfisheye="360" tilt="28.7734" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:17" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node10" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-29.1043" pan="-180"/>
+      <max fovfisheye="360" tilt="29.1043" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:18" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node12" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.5794" pan="-180"/>
+      <max fovfisheye="360" tilt="28.5794" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:18" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node14" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-29.2689" pan="-180"/>
+      <max fovfisheye="360" tilt="29.2689" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:16" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node4" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.8563" pan="-180"/>
+      <max fovfisheye="360" tilt="28.8563" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:19" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node20" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.5794" pan="-180"/>
+      <max fovfisheye="360" tilt="28.5794" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:16" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node7" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.7457" pan="-180"/>
+      <max fovfisheye="360" tilt="28.7457" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:17" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node16" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-29.0217" pan="-180"/>
+      <max fovfisheye="360" tilt="29.0217" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:20" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node21" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-29.4057" pan="-180"/>
+      <max fovfisheye="360" tilt="29.4057" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:20" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node1" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-29.2963" pan="-180"/>
+      <max fovfisheye="360" tilt="29.2963" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:21" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node2" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.8839" pan="-180"/>
+      <max fovfisheye="360" tilt="28.8839" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:21" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node3" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.8839" pan="-180"/>
+      <max fovfisheye="360" tilt="28.8839" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:18" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node18" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.9667" pan="-180"/>
+      <max fovfisheye="360" tilt="28.9667" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:20" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node22" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-29.4057" pan="-180"/>
+      <max fovfisheye="360" tilt="29.4057" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:17" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node11" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.9942" pan="-180"/>
+      <max fovfisheye="360" tilt="28.9942" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:20" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node23" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-29.0217" pan="-180"/>
+      <max fovfisheye="360" tilt="29.0217" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:11" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node6" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.4683" pan="-180"/>
+      <max fovfisheye="360" tilt="28.4683" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:12" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node8" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1250" leveltilesize="510" height="1250" levelbias="0.400">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-28.9391" pan="-180"/>
+      <max fovfisheye="360" tilt="28.9391" fov="120" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata datetime="06.08.2026 17:18" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="Spartak-1" comment="" nodeid="node5" source="" author="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" width="180" border="1" borderradius="1" background="1" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" enabled="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendtime="1" zoomfov="20" softedge="0" zoomin="0" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" sensitivity="8" speedwheel="1" invertcontrol="1" rubberband="0" contextvr="1" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" longitude="" copyright="" customnodeid="" heading="0" latitude="" title="" tags="" comment="" nodeid="master" source="" author="" description="" info=""/>
+  </masternode>
+</tour>
